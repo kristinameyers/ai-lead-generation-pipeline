@@ -12,9 +12,9 @@ An enterprise-grade, sequential multi-agent workspace designed to eliminate gene
 ## 📺 Live Demo & Walkthrough
 
 > [!TIP]
-> **Click the thumbnail below** to watch a 60-second Loom demonstration of this agentic pipeline executing in real-time, displaying structural state handshakes and real-time generation outputs.
+> **Click the thumbnail below** to watch a short video demonstration of this agentic pipeline executing in real-time, displaying structural state handshakes and real-time generation outputs.
 
-[![Watch the Demo](https://img.shields.io/badge/▶_Watch_Loom_Demo-Drop_Your_Loom_Link_Here-blueviolet?style=for-the-badge&logo=loom)](YOUR_LOOM_VIDEO_URL_HERE)
+[![Watch the Demo](https://img.shields.io/badge/▶_Watch_Video_Demo-Drop_Your_Link_Here-blueviolet?style=for-the-badge&logo=youtube)]([YOUR_VIDEO_URL_HERE](https://youtu.be/qIWdfOG6U5o))
 
 ---
 
