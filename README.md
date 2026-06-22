@@ -1,11 +1,19 @@
 # 🎯 Autonomous B2B Lead Gen & Enrichment Engine
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-lead-generation-pipeline.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://ai-lead-generation-pipeline.streamlit.app/)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-blue)](https://aistudio.google.com/)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-green)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An enterprise-grade, sequential multi-agent workspace designed to eliminate generic, low-conversion B2B cold-email spam. Instead of blasting untargeted email sequences, this architecture coordinates three specialized AI agents to autonomously research target corporate infrastructure, extract deep executive pain points, and output hyper-personalized outreach assets.
+Most cold outreach fails because it lacks context. This project introduces a sequential multi-agent execution framework that turns raw business metadata into deeply personalized account strategies.
+
+By chaining three specialized AI subsystems together, the application moves beyond generic templates:
+
+- The Corporate Analyst: Isolates exact market positioning and tech stack realities.
+
+- The Strategy Consultant: Maps out specific executive operational headaches.
+
+- The B2B Conversion Copywriter: Synthesizes the downstream intelligence into a bespoke outreach asset.
 
 ---
 
