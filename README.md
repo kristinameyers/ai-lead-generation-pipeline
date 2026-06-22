@@ -1,6 +1,6 @@
 # 🎯 Autonomous B2B Lead Gen & Enrichment Engine
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://ai-lead-generation-pipeline.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-lead-generation-pipeline.streamlit.app/)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-blue)](https://aistudio.google.com/)
 [![Python](https://img.shields.io/badge/Python-3.11%2B-green)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -14,7 +14,7 @@ An enterprise-grade, sequential multi-agent workspace designed to eliminate gene
 > [!TIP]
 > **Click the thumbnail below** to watch a short video demonstration of this agentic pipeline executing in real-time, displaying structural state handshakes and real-time generation outputs.
 
-[![Watch the Demo](https://img.shields.io/badge/▶_Watch_Video_Demo-Drop_Your_Link_Here-blueviolet?style=for-the-badge&logo=youtube)]https://youtu.be/qIWdfOG6U5o
+[![Watch the Demo](https://img.shields.io/badge/▶_Watch_Video_Demo-Click_To_Play-blueviolet?style=for-the-badge&logo=youtube)](https://youtu.be/qIWdfOG6U5o)
 
 ---
 
