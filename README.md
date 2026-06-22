@@ -14,7 +14,7 @@ An enterprise-grade, sequential multi-agent workspace designed to eliminate gene
 > [!TIP]
 > **Click the thumbnail below** to watch a short video demonstration of this agentic pipeline executing in real-time, displaying structural state handshakes and real-time generation outputs.
 
-[![Watch the Demo](https://img.shields.io/badge/▶_Watch_Video_Demo-Drop_Your_Link_Here-blueviolet?style=for-the-badge&logo=youtube)]([YOUR_VIDEO_URL_HERE](https://youtu.be/qIWdfOG6U5o))
+[![Watch the Demo](https://img.shields.io/badge/▶_Watch_Video_Demo-Drop_Your_Link_Here-blueviolet?style=for-the-badge&logo=youtube)]https://youtu.be/qIWdfOG6U5o
 
 ---
 
